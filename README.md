@@ -1,7 +1,8 @@
 ### Olá, sou o ProfD4N👋
 
-- 🔭 Tenho trabalhado com Scratch.
-- 🌱 Atualmente estou estudando programação (Alura).
-- 🐱‍👤 Pretendo entender: GitHub, Java, Html, etc.
-- 📫 Contato: daniel.azevedo@escola.pr.gov.br
+- 🌱 Estudo: programação (Alura).
+- 🔭 Último desafio: Scratch.
+- 🐱‍👤 Desafio da vez: GitHub, Java, Html, etc.
+- 📫 Contato: daniel.azevedo@escola.pr.gov.br 
+- 🤳 Instagram: @daniel.de.azevedo
 - 😄 Pronomes: ele/dele
