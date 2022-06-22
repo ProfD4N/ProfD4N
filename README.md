@@ -2,7 +2,7 @@
 
 - 🌱 Estudo: programação (Alura).
 - 🔭 Último desafio: Scratch.
-- 🐱‍👤 Desafio da vez: GitHub, Java, Html, etc.
+- 🐱‍👤 Desafio da vez: GitHub, Java, Html, CSS3 etc.
 - 📫 Contato: daniel.azevedo@escola.pr.gov.br 
 - 🤳 Instagram: @daniel.de.azevedo
 - 😄 Pronomes: ele/dele
