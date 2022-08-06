@@ -1,11 +1,11 @@
 ### Olá, sou o ProfD4N👋
 
 - 🌱 Estudo: programação (Alura).
-- 🔭 Último desafio: Scratch.
+- 🔭 Último desafio: Criar um site usando o Atom.
 - 🐱‍👤 Desafio da vez: GitHub, Java, Html, CSS3 etc.
 - 📫 Contato: daniel.azevedo@escola.pr.gov.br 
 - 🤳 Instagram: @daniel.de.azevedo
-- 😄 Pronomes: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/ProfD4N">
